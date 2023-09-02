@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195079139891",
+    "firebase_url": "https://tracking-82889-default-rtdb.firebaseio.com",
+    "project_id": "tracking-82889",
+    "storage_bucket": "tracking-82889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195079139891:android:abf3b403b9790866c7a946",
+        "android_client_info": {
+          "package_name": "com.digiwave.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195079139891-irae5gnga4kokhgop1796hlror0mcj0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-KXakggYNRTz-AerP_Y6qKmKZr7d9vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195079139891-irae5gnga4kokhgop1796hlror0mcj0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
